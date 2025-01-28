@@ -1,0 +1,1 @@
+The goal of this project is to demonstrate contemporary UI/UX design ideas through a completely responsive Spotify sample webpage. Its HTML and CSS construction allows it to fluidly adjust to different screen sizes, guaranteeing the best possible experience on PCs, tablets, and mobile devices.
